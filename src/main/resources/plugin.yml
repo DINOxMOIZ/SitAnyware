@@ -6,7 +6,3 @@ commands:
   Sit:
     Description: "Sit Down"
     Usage: "/sit"
-  Sleep:
-    Description: "Sleeps Anyware"
-    Usage: "/sleep"
-
