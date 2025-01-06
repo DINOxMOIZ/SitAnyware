@@ -1,0 +1,4 @@
+name: SitAnyware
+version: '1.0'
+main: org.ZenMatrix.sitAnyware.SitAnyware
+api-version: '1.21'
