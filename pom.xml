@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.ZenMatrix</groupId>
-    <artifactId>sitanyware</artifactId>
-    <version>1.0</version>
+    <artifactId>SitAndSkull</artifactId>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
-    <name>sitanyware</name>
+    <name>sitandskull</name>
 
     <properties>
         <java.version>21</java.version>
@@ -64,8 +64,9 @@
     <dependencies>
         <dependency>
             <groupId>org.spigotmc</groupId>
-            <artifactId>spigot-api</artifactId>
+            <artifactId>spigot</artifactId>
             <version>1.21.4-R0.1-SNAPSHOT</version>
+            <classifier>remapped-mojang</classifier>
             <scope>provided</scope>
         </dependency>
     </dependencies>
